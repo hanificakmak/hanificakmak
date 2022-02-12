@@ -1,5 +1,6 @@
 ### Hello, I'm Hanifi. 
 
+<img src="hi-hello.gif" width = "200">
 <!--
 **hanificakmak/hanificakmak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
