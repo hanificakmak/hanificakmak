@@ -1,4 +1,6 @@
-### Hello, I'm Hanifi. 
+### Hello, I'm Hanifi.
+Reach me out on 
+<a href="www.linkedin.com/in/hanificakmak">LinkedIn</a>
 
 <img src="hi-hello.gif" width = "200">
 <!--
