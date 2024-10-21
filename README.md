@@ -2,7 +2,7 @@
 Reach me out on 
 <a href="https://www.linkedin.com/in/hanificakmak/">LinkedIn</a>
 <br></br>
-<a href="https://simplelister.com/">Simple Lister</a>
+Our latest product <a href="https://simplelister.com/">Simple Lister</a>
 
 <img src="hi-hello.gif" width = "200">
 <!--
